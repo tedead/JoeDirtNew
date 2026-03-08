@@ -1,0 +1,5 @@
+<resources>
+    
+        <dimen name="button_height">30dp</dimen>
+        
+</resources>
