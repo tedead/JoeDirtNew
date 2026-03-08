@@ -11,13 +11,13 @@ if (signingPropertiesFile.exists()) {
 
 android {
     namespace 'org.nibbler.zoe.joedirt'
-    compileSdk 34
+    compileSdk 35
 
     defaultConfig {
         applicationId "org.nibbler.zoe.joedirt"
         minSdk 23
-        targetSdk 34
-        versionCode 14
+        targetSdk 35
+        versionCode 16
         versionName "2.7"
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"

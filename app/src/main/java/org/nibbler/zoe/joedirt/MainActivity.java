@@ -35,7 +35,7 @@ public class MainActivity extends AppCompatActivity implements OnClickListener, 
 
         // Setup AdView
         adView = new AdView(this);
-        adView.setAdUnitId("ca-app-pub-3940256099942544/6300978111"); // Test Ad Unit ID
+        adView.setAdUnitId("ca-app-pub-6093624921351744/1422585714");
         adView.setAdSize(AdSize.BANNER);
 
         // Find a layout to add the AdView to (assuming mainLayout in your XML)
