@@ -17,7 +17,7 @@ android {
         applicationId "org.nibbler.zoe.joedirt"
         minSdk 23
         targetSdk 34
-        versionCode 10
+        versionCode 14
         versionName "2.7"
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"

@@ -15,10 +15,15 @@
 .cxx
 local.properties
 signing.properties
+
+# Memory dumps
+*.hprof
+
 # Legacy Android folders
 bin/
 gen/
 obj/
+
 # Test/Release outputs
 app/build/
 *.apk
